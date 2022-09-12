@@ -1,0 +1,6 @@
+﻿  main.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\samuel\documents\proyectos lmad\lens\proyecto lens_quintas\lens_winapi\main.cpp(1260): warning C4101: 'temp': unreferenced local variable
+c:\users\samuel\documents\proyectos lmad\lens\proyecto lens_quintas\lens_winapi\main.cpp(1261): warning C4101: 'temp1': unreferenced local variable
+  LENS_WinAPI.vcxproj -> C:\Users\Samuel\Documents\Proyectos LMAD\LENS\Proyecto Lens_Quintas\Debug\LENS_WinAPI.exe
+  LENS_WinAPI.vcxproj -> C:\Users\Samuel\Documents\Proyectos LMAD\LENS\Proyecto Lens_Quintas\Debug\LENS_WinAPI.pdb (Full PDB)
